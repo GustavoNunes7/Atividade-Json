@@ -1,0 +1,26 @@
+[
+{
+    "filme-favorito":{
+        "titulo": "Vingadores Últimato",
+        "ano": 2019,
+        "diretor": ["Anthony Russo" , "Joe Russo"],
+        "generos":["Ação", "Aventura", "Ficção científica" , "fantasia"]
+    },
+
+    "aluno":{
+        "nome": "Gustavo Nunes",
+        "idade": 17,
+        "notas": [10, 9 , 7 , 8.5],
+        "aprovado": true
+    },
+
+    "produto":{
+        "nome": "Computador",
+        "preço": 2000,
+        "quantidade": 10,
+        "disponivel": false
+    }
+
+
+}
+]
